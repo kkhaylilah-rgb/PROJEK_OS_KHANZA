@@ -74,7 +74,7 @@ nano organisasi_file.sh
 ~~~~
 
 SCRIPT ISI
-[deskripsi gambar] ()
+[deskripsi gambar] ( https://drive.google.com/file/d/1gu-zhlO4P3yWtUOyj2rvQ9-Idk8Qz-d_/view?usp=drivesdk )
 
 ~~~~
 #!/bin/bash
@@ -131,7 +131,7 @@ penjelasan:
 # LANGKAH 3 FUNGSI PENCARIAN
 Buat file search_file.sh
 
-[Deskripsi gambar] ()
+[Deskripsi gambar] ( https://drive.google.com/file/d/1ddZtpcWkM39nEVYdsvhTBlvDBsLSmR8Q/view?usp=drivesdk )
 
 ~~~~
  #!/bin/bash
@@ -202,7 +202,7 @@ Buat File Report.sh
 nano report.sh
 ~~~~
 
-[Deskripsi_gambar] ()
+[Deskripsi_gambar] ( https://drive.google.com/file/d/1SdLIMt_NYb2IUShYsWWGyaCq3d6IMEzL/view?usp=drivesdk )
 
 ~~~~
 #!/bin/bash
